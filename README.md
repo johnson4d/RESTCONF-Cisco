@@ -5,8 +5,11 @@ This python script will retrieve the Cisco router clock and ARP cache every 10 s
 Here is an example.
 
 Username?yang
+
 Password?yang
+
 IP Address?192.168.0.239
+
 {
   "Cisco-IOS-XE-device-hardware-oper:current-time": "2022-02-25T05:04:15+00:00"
 }
